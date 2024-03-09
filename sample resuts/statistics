@@ -1,0 +1,49 @@
+Test Results: 
+Filename: C:\Users\moaym\OneDrive\Desktop\APTAssignment1\APTAssignment1\file1
+Filesize: 500B
+                                        One thread              Two threads             Five threads            Seven threads              Ten threads
+      Encryption time(ns)                      0.0                      0.0                      0.0                      0.0                      0.0
+     Deccryption time(ns)                      0.0                      0.0                      0.0                      0.0                      0.0
+        Comparison result                     true                     true                     true                     true                     true
+Filename: C:\Users\moaym\OneDrive\Desktop\APTAssignment1\APTAssignment1\file2
+Filesize: 1KB
+                                        One thread              Two threads             Five threads            Seven threads              Ten threads
+      Encryption time(ns)                      0.0                      0.0                      0.0                      0.0                      0.0
+     Deccryption time(ns)                      0.0                      0.0                      0.0                      0.0                      0.0
+        Comparison result                     true                     true                     true                     true                     true
+Filename: C:\Users\moaym\OneDrive\Desktop\APTAssignment1\APTAssignment1\file3
+Filesize: 100KB
+                                        One thread              Two threads             Five threads            Seven threads              Ten threads
+      Encryption time(ns)              3.3554432E7              3.3554432E7                      0.0                      0.0                      0.0
+     Deccryption time(ns)              3.3554432E7                      0.0              3.3554432E7                      0.0                      0.0
+        Comparison result                     true                     true                     true                     true                     true
+Filename: C:\Users\moaym\OneDrive\Desktop\APTAssignment1\APTAssignment1\file4
+Filesize: 500KB
+                                        One thread              Two threads             Five threads            Seven threads              Ten threads
+      Encryption time(ns)                      0.0                      0.0                      0.0                      0.0                      0.0
+     Deccryption time(ns)              3.3554432E7                      0.0                      0.0                      0.0                      0.0
+        Comparison result                     true                     true                     true                     true                     true
+Filename: C:\Users\moaym\OneDrive\Desktop\APTAssignment1\APTAssignment1\file5
+Filesize: 10MB
+                                        One thread              Two threads             Five threads            Seven threads              Ten threads
+      Encryption time(ns)              3.3554432E7              3.3554432E7              3.3554432E7                      0.0                      0.0
+     Deccryption time(ns)              3.3554432E7              3.3554432E7              3.3554432E7              3.3554432E7              3.3554432E7
+        Comparison result                     true                     true                     true                     true                     true
+Filename: C:\Users\moaym\OneDrive\Desktop\APTAssignment1\APTAssignment1\file6
+Filesize: 100MB
+                                        One thread              Two threads             Five threads            Seven threads              Ten threads
+      Encryption time(ns)              7.0464307E8              3.3554432E8             2.34881024E8             3.01989888E8             3.69098752E8
+     Deccryption time(ns)             4.36207616E8             4.36207616E8             3.69098752E8             3.01989888E8             2.01326592E8
+        Comparison result                     true                     true                     true                     true                     true
+Filename: C:\Users\moaym\OneDrive\Desktop\APTAssignment1\APTAssignment1\file7
+Filesize: 300MB
+                                        One thread              Two threads             Five threads            Seven threads              Ten threads
+      Encryption time(ns)             2.21459251E9             1.34217728E9             1.44284058E9             1.44284058E9             1.07374182E9
+     Deccryption time(ns)             1.87904819E9             1.30862285E9             1.37573171E9             1.17440512E9             1.07374182E9
+        Comparison result                     true                     true                     true                     true                     true
+Filename: C:\Users\moaym\OneDrive\Desktop\APTAssignment1\APTAssignment1\file8
+Filesize: 500MB
+                                        One thread              Two threads             Five threads            Seven threads              Ten threads
+      Encryption time(ns)              4.3956306E9             3.55676979E9             3.15411661E9             3.48966093E9             2.55013683E9
+     Deccryption time(ns)              4.6305116E9              2.4159191E9             3.05345331E9             2.44947354E9             2.24814694E9
+        Comparison result                     true                     true                     true                     true                     true
